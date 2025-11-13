@@ -19,6 +19,20 @@ Analytics for
 Ecommerce
 Reasoning
 
+
+
+## 📦 Dataset Download (Required)
+
+This project uses the **Olist Brazil Ecommerce Dataset**.
+
+Because the dataset is large, it is **not included in the GitHub repo**.
+
+Download it here (official source):
+🔗 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+
+
+
 🌟 Demo Features
 🧠 Conversational AI Agent
 
