@@ -1,7 +1,7 @@
 # MAER.AI — Conversational Commerce Analyst
 *AI-powered insights for ecommerce datasets, using Gemini 2.0 + DuckDB + Streamlit*
 
-![Architecture](architecture.png)
+![Architecture](maer_arch.jpeg)
 Powered by Gemini 2.0 + DuckDB + Streamlit
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
