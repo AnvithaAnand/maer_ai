@@ -1,2 +1,2 @@
-# maer_ai
-Conversational Commerce Analyst powered by Gemini + DuckDB + Streamlit
+# MAER.AI — Conversational Commerce Analyst
+Run `streamlit run app.py` after installing requirements.
