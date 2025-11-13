@@ -1,4 +1,14 @@
+# MAER.AI — Conversational Commerce Analyst
+*AI-powered insights for ecommerce datasets, using Gemini 2.0 + DuckDB + Streamlit*
+
+![Architecture](architecture.png)
 Powered by Gemini 2.0 + DuckDB + Streamlit
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Cloud-red)
+![DuckDB](https://img.shields.io/badge/DuckDB-In--Memory-yellow)
+![Gemini](https://img.shields.io/badge/LLM-Gemini_2.0-green)
+
 
 MAER.AI (Machine-driven Analytics for Ecommerce Reasoning) is an AI-powered conversational analytics system that converts natural-language business questions into live SQL queries, runs them against the Olist ecommerce dataset using DuckDB, and returns actionable insights, visual dashboards, and downloadable reports.
 
